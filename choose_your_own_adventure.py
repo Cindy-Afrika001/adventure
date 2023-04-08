@@ -1,4 +1,4 @@
-name = input("Type ypur name: ")
+name = input("Type your name: ")
 print("welcome",name, "to this adventure!")
 
 answer = input("You're at Tom Mboya street turn right orleft and move straight😁! ")
